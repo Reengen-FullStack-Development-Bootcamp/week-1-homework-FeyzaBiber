@@ -1,5 +1,8 @@
 # shopping-card
 
+## Live
+```
+https://week-1-shopping-card-feyzabiber.vercel.app/
 ## Project setup
 ```
 npm install
